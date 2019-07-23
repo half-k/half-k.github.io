@@ -26,8 +26,6 @@
 
 /*		Fonts		*/
 
-/*		Github Test		*/
-
 @font-face {
     font-family: 'lato-black';
     src: url('../fonts/lato-black.eot');
@@ -383,7 +381,65 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover{
 }
 
 
+/*    registration    */
 
+.registration{
+	padding: 140px 0;
+}
+
+.registration .mean_title,
+.registration .sub_title{
+	text-align: center;
+	color: #454545;
+	font-family: "raleway-regular", Helvetica, Arial, sans-serif;
+}
+
+
+.registration .mean_title{
+	font-size: 30px;
+	font-family: "raleway-bold", Helvetica, Arial, sans-serif;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.registration .sub_title{
+	font-size: 22px;
+	font-family: "raleway-light", Helvetica, Arial, sans-serif;
+	font-weight: lighter;
+	/*text-transform: lowercase;*/
+}
+
+.registration .registration_list{
+	margin-top: 100px;	text-align: center;
+}
+
+.registration .registration_list .serv_icon{
+	margin-bottom: 60px;
+}
+
+.registration .registration_list p{
+	color: #454545;
+	font-family: "raleway-regular", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	line-height: 30px;
+}
+
+.registration .title{
+	color: #454545;
+	font-family: "raleway-bold", Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin-bottom: 20px
+}
+
+.btn_holder{
+	text-align: center;
+}
+
+.registration .btn_fancy{
+	margin-top: 100px;
+}
 
 
 
