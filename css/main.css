@@ -143,7 +143,6 @@
 	padding: 0 2rem 0 0.9375rem;
 }
 
-
 .top-bar,
 .top-bar-section li:not(.has-form) a:not(.button),
 .top-bar-section li:not(.has-form) a:not(.button):hover,
@@ -154,6 +153,15 @@
 	height: auto;
 	line-height:normal;
 	padding: 0;
+}
+
+.top-bar a{
+	color: #ffffff;
+    font-family: "raleway-regular", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    text-transform: uppercase;
+    margin-right: 30px;
+    letter-spacing: .5px;
 }
 
 
