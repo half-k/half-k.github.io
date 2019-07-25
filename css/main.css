@@ -164,6 +164,10 @@
     letter-spacing: .5px;
 }
 
+.top-bar a:hover{
+
+}
+
 
 .top-bar .name,
 .top-bar .name h1,
@@ -369,6 +373,10 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover{
 	font-family: "raleway-regular", Helvetica, Arial, sans-serif;
 	font-size: 14px;
 	line-height: 30px;
+}
+
+.about p{
+	font-size: 1.1rem;
 }
 
 .about .title{
@@ -1002,6 +1010,7 @@ footer p{
 #founders {
   padding: 45px
 }
+
 
 .form {
   padding: 45px
