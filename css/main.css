@@ -1018,3 +1018,10 @@ footer p{
   color: #008CBA;
   /*text-decoration: underline;*/
 }
+
+@media only screen and (max-width: 40.063em) {
+
+	.small-6 {
+		width: 100%;
+	}
+}
